@@ -53,4 +53,24 @@ git commit -m "made the first change"
 [master 63cf347] made the first change
  1 file changed, 8 insertions(+)
 
+git log
+
+commit 42115426c9762cbf5907e932e1b19dc6ce38c513 (HEAD -> master)
+Author: bharan <bharansooraj@gmail.com>
+Date:   Sun Aug 6 18:30:31 2023 +0530
+
+    made the second change
+
+commit 63cf34766028c7927e7430bd43b2bb2b4bb330c9
+Author: bharan <bharansooraj@gmail.com>
+Date:   Sun Aug 6 18:28:47 2023 +0530
+
+    made the first change
+
+commit 5457a046ddbc248ebfbeba898849946b4de04078
+Author: bharan <bharansooraj@gmail.com>
+Date:   Sun Aug 6 18:24:36 2023 +0530
+
+    first sample code for git
+
 
