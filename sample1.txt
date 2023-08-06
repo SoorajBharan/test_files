@@ -33,3 +33,11 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 	new file:   sample_text.txt
 
+
+git commit -m "first sample code for git"
+
+[master (root-commit) 5457a04] first sample code for git
+ 2 files changed, 37 insertions(+)
+ create mode 100644 sample1.txt
+ create mode 100644 sample2.txt
+
