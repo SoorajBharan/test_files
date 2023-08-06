@@ -41,3 +41,16 @@ git commit -m "first sample code for git"
  create mode 100644 sample1.txt
  create mode 100644 sample2.txt
 
+git add .
+git status 
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   sample1.txt
+
+git commit -m "made the first change"
+[master 63cf347] made the first change
+ 1 file changed, 8 insertions(+)
+
+
