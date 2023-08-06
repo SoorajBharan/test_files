@@ -73,4 +73,10 @@ Date:   Sun Aug 6 18:24:36 2023 +0530
 
     first sample code for git
 
+git log --oneline
+
+4211542 (HEAD -> master) made the second change
+63cf347 made the first change
+5457a04 first sample code for git
+
 
